@@ -3,6 +3,10 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "TorrezMN"
+    "TorrezMN",
+    "Computer-Graphics",
+    "PChart",
+    "fake_server",
+    "Data_Science"
   ]
 }
