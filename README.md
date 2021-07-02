@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/6/29 4:40 PM UTC
+			2021/6/30 4:40 PM UTC
 		</td>
 		<td>
 			1
@@ -35,9 +35,73 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/363189585/small/year.png" height="20"> 2
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/155655077/year.md">
+				Computer-Graphics
+			</a>
+		</td>
+		<td>
+			2021/6/29 4:46 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/155655077/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/267621425/year.md">
+				PChart
+			</a>
+		</td>
+		<td>
+			2021/6/29 4:46 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/267621425/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/290022000/year.md">
+				fake_server
+			</a>
+		</td>
+		<td>
+			2021/6/29 4:46 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/290022000/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/182812956/year.md">
+				Data_Science
+			</a>
+		</td>
+		<td>
+			2021/6/29 4:46 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/182812956/small/year.png" height="20"> 2
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2021/7/2 4:40 PM UTC</i></small>
+<small><i>Last updated on 2021/7/2 4:47 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

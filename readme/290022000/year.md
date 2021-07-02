@@ -1,7 +1,7 @@
 ## [🔙 Github_Counter](https://github.com/TorrezMN/Github_Counter)
 
-### :octocat: [TorrezMN](https://github.com/TorrezMN/TorrezMN)
-![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/graph/363189585/large/year.png)
+### :octocat: [fake_server](https://github.com/TorrezMN/fake_server)
+![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2021/7/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2021/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/7/2 4:45 PM UTC</i></small>
+<small><i>Last updated on 2021/7/2 4:46 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/363189585/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/363189585/week.md)
+[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/290022000/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/week.md)
 ```readme
-[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/363189585/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/363189585/week.md)
+[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/290022000/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/week.md)
 ```
 ### Header
-# TorrezMN [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/363189585/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/363189585/year.md)
+# fake_server [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/year.md)
 ```readme
-# TorrezMN [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/363189585/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/363189585/year.md)
+# fake_server [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
