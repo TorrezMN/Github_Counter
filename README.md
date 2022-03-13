@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/10 12:35 AM UTC
+			2022/3/11 12:38 AM UTC
 		</td>
 		<td>
 			10
@@ -37,12 +37,44 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/155655077/year.md">
+				Computer-Graphics
+			</a>
+		</td>
+		<td>
+			2022/3/11 12:38 AM UTC
+		</td>
+		<td>
+			22
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/155655077/small/year.png" height="20"> 153
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/267621425/year.md">
+				PChart
+			</a>
+		</td>
+		<td>
+			2022/3/11 12:38 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/TorrezMN/Github_Counter/raw/master/graph/267621425/small/year.png" height="20"> 60
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/TorrezMN/Github_Counter/tree/master/readme/290022000/year.md">
 				fake_server
 			</a>
 		</td>
 		<td>
-			2022/3/10 12:36 AM UTC
+			2022/3/11 12:38 AM UTC
 		</td>
 		<td>
 			9
@@ -58,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/10 12:36 AM UTC
+			2022/3/11 12:38 AM UTC
 		</td>
 		<td>
 			14
@@ -69,7 +101,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/12 6:10 PM UTC</i></small>
+<small><i>Last updated on 2022/3/13 12:35 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
