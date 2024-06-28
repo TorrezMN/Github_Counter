@@ -1,7 +1,7 @@
 ## [🔙 Github_Counter](https://github.com/TorrezMN/Github_Counter)
 
-### :octocat: [fake_server](https://github.com/TorrezMN/fake_server)
-![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/large/year.png)
+### :octocat: [PChart](https://github.com/TorrezMN/PChart)
+![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/graph/821090249/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2023/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/290022000/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/week.md)
+[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/821090249/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/821090249/week.md)
 ```readme
-[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/290022000/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/week.md)
+[![Image of Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/821090249/badge.svg)](https://github.com/TorrezMN/Github_Counter/blob/master/readme/821090249/week.md)
 ```
 ### Header
-# fake_server [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/year.md)
+# PChart [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/821090249/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/821090249/year.md)
 ```readme
-# fake_server [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/290022000/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/290022000/year.md)
+# PChart [<img alt="Image of Github_Counter" src="https://github.com/TorrezMN/Github_Counter/blob/master/graph/821090249/small/year.png" height="20">](https://github.com/TorrezMN/Github_Counter/blob/master/readme/821090249/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
